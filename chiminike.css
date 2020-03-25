@@ -1,0 +1,212 @@
+@charset "utf-8";
+/* CSS Document */
+/*pt1*/
+header{
+	background-color: #2B116D;
+}
+#sistemasolar{
+	background-color: #0B144E;
+	background-image: url("imgs/fondo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	height: 740px;
+	margin-top: 0;
+}
+.titulosis{
+	font-family: 'Pacifico', cursive;
+	color: #FAFE2D;
+	position: absolute;
+	padding: 50px 3% 0 40%;
+	font-size: 100px;
+}
+.sol{
+	margin-top: 80px;
+}
+.sol:hover{
+	margin-top: 80px;
+	width: 350px;
+	height: 620px;
+}
+.mercurio{
+	margin: 350px 20px 0;
+}
+.mercurio:hover{
+	width: 50px;
+	height: 50px;
+}
+.venus{
+	margin-top: 350px;
+}
+.venus:hover{
+	width: 60px;
+	height: 60px;
+}
+.tierra{
+	margin-top: 330px;
+	margin-left: -20px;
+}
+.tierra:hover{
+	width: 100px;
+	height: 100px;
+}
+.marte{
+	margin-top: 350px;
+}
+.marte:hover{
+	width: 55px;
+	height: 55px;
+}
+.jupiter{
+	margin: 290px 0 0 -50px;
+}
+.jupiter:hover{
+	width: 170px;
+	height: 170px;
+}
+.saturno{
+	margin: 270px -5px 0;
+}
+.saturno:hover{
+	width: 120px;
+	height: 200px;
+}
+.urano{
+	margin: 320px -14px 0;
+}
+.urano:hover{
+	width: 110px;
+	height: 110px;
+}
+.neptuno{
+	margin: 330px 0 0;
+}
+.neptuno:hover{
+	width: 80px;
+	height: 80px;
+}
+.pluton{
+	margin: 355px 15px 0;
+}
+.pluton:hover{
+	width: 30px;
+	height: 30px;
+}
+#sistemasolar h2{
+	font-size: 18px;
+	padding: 10px 8px 0 0;
+	color: #F5F5F5;
+}
+/*pt1*/
+
+/*pt2*/
+#mercurio{
+	background-color: #0B144E;
+	background-image: url("imgs/fondo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	height: 620px;
+}
+.info{
+	padding-top: 60px;
+}
+.p1{
+	margin: 20% 0 20% 10%;
+	width: 290px;
+	height: 290px;
+}
+.titulo{
+	font-family: 'Pacifico', cursive;
+	color: #FAFE2D;
+	text-align: center;
+	font-size: 70px;
+}
+p{
+	color: #f4f4f4;
+	font-size: 18px;
+}
+.buttun{
+	background-color: #10DF2D;
+	padding: 10px 35px;
+	color: #092328;
+	border-radius: 20px;
+}.buttun:hover{
+	background-color: #f4f4f4;
+}
+/*pt2*/
+
+#universo{
+	background-image: url("imgs/cuanto-mide-el-universo-entero.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+	width: 100%;
+}
+#universo .titulo{
+	padding-top: 90px;
+}
+#universo p{
+	text-align: center;
+	font-weight: 500;
+}
+#rocalunar{
+	background-image: url("imgs/estrellas.png");
+	background-size: cover;
+	background-repeat: repeat;
+	background-color: #754886;
+	padding: 180px 0;
+}#rocalunar p{
+	padding-top: 10px;
+	background-color: #754886;
+}
+.roca{
+	border-radius: 140px;
+	background-color: #E1AA1C;
+	padding: 20px;
+}
+#astronauta{
+	background-image: url("imgs/a2.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 180px 0;
+}
+#astronauta p{
+	font-weight: 400;
+	padding-bottom: 50px;
+}
+.bg-gris{
+	background-color: rgba(4,54,142,0.40);
+	border-radius: 50px;
+	z-index: 1;
+}
+.p2{
+	margin: 10% 0 20% 15%;
+	width: 250px;
+	height: 420px;
+}
+
+footer{
+	background-color: #434343;
+	padding: 10px 0;
+}
+.logo{
+	margin-left: 10%;
+}
+.w1{
+	font-size: 10px;
+	color: #D9D9D9;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
